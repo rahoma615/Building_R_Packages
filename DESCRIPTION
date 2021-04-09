@@ -1,7 +1,7 @@
 Package: fars
 Title: Read Fatality Analysis Reporting System (FARS) data
 Version: 0.0.0.3
-Authors@R: person("Enrique", "Pérez Herrero", email = "eph.project1500@gmail.com", role = c("aut", "cre"))
+Authors@R: person("Enrique", "Rahma", role = c("aut", "cre"))
 Description: COURSERA: BUILDING R PACKAGES, Peer-graded Assignment.
 Depends: R (>= 3.3.3)
 License: GPL-3
