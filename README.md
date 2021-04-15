@@ -4,7 +4,7 @@
 Peer-graded Assignment: Building an R Package
 =============================================
 
-FARS Package <small>Building R Packages</small>
+<small>Building R Packages</small>
 -----------------------------------------------
 
 ### Introduction
