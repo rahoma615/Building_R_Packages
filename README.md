@@ -1,5 +1,8 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- README.md is generated from README.Rmd.  -->
+<!-- badges: start -->
+[![Build Status](https://travis-ci.org/rahma/brpackages.svg?branch=master)](https://travis-ci.org/rahma/brpackages)
+<!-- badges: end -->
 
 Peer-graded Assignment: Building an R Package
 =============================================
