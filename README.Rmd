@@ -12,11 +12,14 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
+<!-- badges: start -->
+[![Build Status](https://travis-ci.org/rahma/brpackages.svg?branch=master)](https://travis-ci.org/rahma/brpackages)
+<!-- badges: end -->
 
 
 # Peer-graded Assignment: Building an R Package
 
-## FARS Package <small>Building R Packages</small>
+##  Package <small>Building R Packages</small>
 
 ### Introduction
 
